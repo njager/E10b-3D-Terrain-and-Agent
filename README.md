@@ -1,6 +1,8 @@
 # E10b-3D-Terrain-and-Agent
 This is an exercise to explore adding 3D terrain and a simple AI agent to a scene.
 
+Added scenes and scripts as described in the following README
+
 As usual, Fork and Clone this repository.
 
 I have populated the scene with a Game node, and a Ground StaticBody to stand on. I have also created a first-person character which can move, look around, and jump. Your task will be to add some terrain and create a rudamentary AI agent (which is powered by a simple state machine).
